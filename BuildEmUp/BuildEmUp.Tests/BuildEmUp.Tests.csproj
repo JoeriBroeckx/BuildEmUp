@@ -54,6 +54,7 @@
     <Compile Include="CitizenTests\A_Citizen_Should.cs" />
     <Compile Include="CityBuilderTests\A_City_Should.cs" />
     <Compile Include="LotteryTests\A_LotteryDrawing_Should.cs" />
+    <Compile Include="LotteryTests\A_LotteryDrawing_With_a_lucky_buyer.cs" />
     <Compile Include="LotteryTests\A_Lottery_Should.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
